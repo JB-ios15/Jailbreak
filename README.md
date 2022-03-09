@@ -3,8 +3,7 @@
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
 
 SNOW jailbreak for iOS 15.0 - 15.2<br/>
-by [@JbIos15](https://twitter.com/JbIos15) & [@sbingner](https://twitter.com/sbingner)<br/>
-UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
+by [@JbIos15](https://twitter.com/JbIos15)<br/>
 
 ## The most outstanding changes over the other jailbreaks
 * One app to jailbreak all firmwares
